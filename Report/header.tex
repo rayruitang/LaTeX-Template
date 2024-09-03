@@ -155,7 +155,10 @@
 				\begin{tabular}[t]{c}%
 					\@author \\
 					\normalsize{
-						\ifdef{\NetID}{NetID: \NetID}{}
+						\ifdef{\UID}{UID: \UID}{}
+					}
+     					\normalsize{
+						\ifdef{\email}{Email: \email}{}
 					}
 				\end{tabular}\par}%
 		\vskip 1em%
