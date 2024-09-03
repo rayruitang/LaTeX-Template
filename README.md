@@ -15,9 +15,6 @@ The existing $\LaTeX$ templates are often over-complicated, while I try to make 
 - [Note](./Note)
 - [Report/Assignment](./Report)
 - [Beamer](./Beamer)
-- [CV/Resume](./CV)
 - [Letter](./Letter)
 
 Feel free to change them by replacing figures and color themes.
-
-> If you're interested in my $\LaTeX$ typeset setup, check out [this repo](https://github.com/sleepymalc/VSCode-LaTeX-Inkscape).
